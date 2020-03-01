@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/冲突" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/分支1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/忽略文件" vcs="Git" />
+  </component>
+</project>
